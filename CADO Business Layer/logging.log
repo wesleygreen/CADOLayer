@@ -1,0 +1,4 @@
+2017-12-20 14:41:16 INFO  TestLogger:10 - 
+Hello World
+2017-12-20 14:41:16 ERROR TestLogger:11 - 
+Error
